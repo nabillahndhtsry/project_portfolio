@@ -1,16 +1,10 @@
-\# 📱 PROJECT UAS PORTFOLIO - NABILLAH
-
-
+📱 PROJECT UAS PORTFOLIO - NABILLAH
 
 Repository ini berisi implementasi lengkap aplikasi Portfolio UAS yang terdiri dari:
 
+🏗️ STRUKTUR PROJEK
 
-
-\## 🏗️ STRUKTUR PROJEK
-
-
-
-\### 1. 📁 \*\*APLIKASI\_MOBILE/\*\*
+1. 📁 project_uas_portfolio
 
 &nbsp;  - Kode sumber aplikasi Flutter
 
@@ -20,9 +14,7 @@ Repository ini berisi implementasi lengkap aplikasi Portfolio UAS yang terdiri d
 
 &nbsp;  - Assets dan dependencies
 
-
-
-\### 2. 📁 \*\*API/\*\*
+2. 📁 API
 
 &nbsp;  - Kode PHP untuk backend API
 
@@ -32,9 +24,7 @@ Repository ini berisi implementasi lengkap aplikasi Portfolio UAS yang terdiri d
 
 &nbsp;  - Endpoint REST API untuk CRUD operations
 
-
-
-\### 3. 📁 \*\*DATABASE/\*\*
+3. 📁 DATABASE
 
 &nbsp;  - File SQL untuk struktur database
 
@@ -44,9 +34,7 @@ Repository ini berisi implementasi lengkap aplikasi Portfolio UAS yang terdiri d
 
 &nbsp;  - Dokumentasi relasi tabel
 
-
-
-\### 4. 📄 \*\*DOKUMENTASI\_APLIKASI.pdf\*\*
+4. 📄 Project__uas_dokumentasi.pdf
 
 &nbsp;  - Dokumentasi lengkap aplikasi
 
@@ -58,11 +46,7 @@ Repository ini berisi implementasi lengkap aplikasi Portfolio UAS yang terdiri d
 
 &nbsp;  - Screenshots aplikasi
 
-
-
-\## 🚀 INSTALASI \& SETUP
-
-
+🚀 INSTALASI \& SETUP
 
 \### Prerequisites
 
@@ -86,7 +70,7 @@ Repository ini berisi implementasi lengkap aplikasi Portfolio UAS yang terdiri d
 
 
 
-\## 🔗 LINK DEMO
+🔗 LINK DEMO
 
 \- \*\*Aplikasi Mobile\*\*: Android Studio
 
@@ -94,21 +78,8 @@ Repository ini berisi implementasi lengkap aplikasi Portfolio UAS yang terdiri d
 
 
 
-\## 📞 KONTAK
+📞 KONTAK
 
 \- Email: nabillahtrsy412@gmail.com
 
-\- GitHub: \[@nabillahndhtsry]
-
-
-
-\## 📄 LISENSI
-
-Proyek ini dilisensikan di bawah.
-
-
-
----
-
-© 2026 - Project UAS Portfolio | Universitas Anda
-
+\- GitHub: @nabillahndhtsry
