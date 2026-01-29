@@ -1,0 +1,13 @@
+[2026-01-21 09:46:48] POST request to create.php
+Database connected successfully
+Raw input: {"user_id":1,"judul":"project","keterangan":"membuat","image_url":"assets/images/artikel1.jpg"}
+Parsed data: stdClass Object
+(
+    [user_id] => 1
+    [judul] => project
+    [keterangan] => membuat
+    [image_url] => assets/images/artikel1.jpg
+)
+
+SQL: INSERT INTO articles (judul, keterangan, gambar, user_id, created_at) 
+        VALUES ('project', 'membuat', 'assets/images/artikel1.jpg', 1, NOW())

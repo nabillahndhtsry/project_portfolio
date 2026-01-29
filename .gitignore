@@ -1,0 +1,53 @@
+# Flutter/Ignore
+project_uas_portfolio/.dart_tool/
+project_uas_portfolio/.packages
+project_uas_portfolio/.pub-cache/
+project_uas_portfolio/.pub/
+project_uas_portfolio/build/
+project_uas_portfolio/android/
+project_uas_portfolio/ios/
+project_uas_portfolio/windows/
+project_uas_portfolio/linux/
+project_uas_portfolio/macos/
+project_uas_portfolio/.flutter-plugins
+project_uas_portfolio/.flutter-plugins-dependencies
+
+# Android
+**/*.keystore
+**/*.jks
+*.key
+*.properties
+
+# iOS
+**/Podfile.lock
+**/Pods/
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.lock
+
+# API Ignore
+API/error_log
+API/uploads/temp/
+
+# Database (jika ada file besar)
+*.sql.gz
+*.backup
+
+# Dokumentasi sementara
+*.docx
+*.pptx
